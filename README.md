@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👨‍💻Bem Vindos
+Olá eu me chamo César M. Almeida, sou formado como técnico em Mecatrônica e estou em processo de formação em Ciência da Computação. Atualmente sou estagiário do Banco Safra na área de TI.
+## 🧠Conhecimento
 
-<!--
-**Cesar-Almeida/Cesar-Almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - HTML, CSS e JS
+ - BD(MySQL e Azure)
+ - Python
+ - Java
+ 
+ Obs.: ainda preciso  me aprofundar bastante.
+## 👨🏻‍💼Redes Sociais🌐
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/césar-de-moura-almeida-9ba7851a0/)](https://www.linkedin.com/in/césar-de-moura-almeida-9ba7851a0/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
