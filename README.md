@@ -1,5 +1,6 @@
 # 👨‍💻Bem Vindos  
-![Follow Badge](https://img.shields.io/github/followers/Cesar-Almeida.svg?style=social&label=Follow&maxAge=2592000) 
+![Follow Badge](https://img.shields.io/github/followers/Cesar-Almeida.svg?style=social&label=Follow&maxAge=2592000)
+
 Olá eu me chamo César M. Almeida, sou formado como técnico em Mecatrônica e estou em processo de formação em Ciência da Computação. Atualmente sou estagiário do Banco Safra na área de TI.
 ## 🧠Conhecimento
 
@@ -18,7 +19,7 @@ Olá eu me chamo César M. Almeida, sou formado como técnico em Mecatrônica e 
  ![Stats Badge](https://github-readme-stats.vercel.app/api?username=Cesar-Almeida&theme=blue-green)  
 
 ## 💻 Workspace Spec
-![GPU Badge](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Processador Badge](https://img.shields.io/badge/Intel-Core_i5_9ª-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
+![GPU Badge](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Processador Badge](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
 
 ## 👨🏻‍💼Redes Sociais🌐
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/césar-de-moura-almeida-9ba7851a0/)](https://www.linkedin.com/in/césar-de-moura-almeida-9ba7851a0/)
