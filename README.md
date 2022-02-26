@@ -26,6 +26,6 @@ Olá eu me chamo César M. Almeida, sou formado como técnico em Mecatrônica e 
 
 <div>
 
-  ![Snake animation](https://github.com/Cesar-Almeida/Cesar-Almeida/blob/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Cesar-Almeida/Cesar-Almeida/blob/main/.github/workflows/github-contribution-grid-snake.svg)
   
 </div>
