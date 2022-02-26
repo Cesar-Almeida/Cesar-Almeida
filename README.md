@@ -24,3 +24,8 @@ Olá eu me chamo César M. Almeida, sou formado como técnico em Mecatrônica e 
 ## 👨🏻‍💼Redes Sociais🌐
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/césar-de-moura-almeida-9ba7851a0/)](https://www.linkedin.com/in/césar-de-moura-almeida-9ba7851a0/)
 
+<div>
+
+  ![Snake animation](https://github.com/Cesar-Almeida/Cesar-Almeida/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
